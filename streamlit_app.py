@@ -1,6 +1,6 @@
 import streamlit
 
 streamlit.title( 'My Parents Healthy Dinner')
-streamlit.title( 'Breakfast Menu')
-streamlit.title(' Oats meal')
+streamlit.header( 'Breakfast Menu')
+streamlit.text(' Oats meal')
 
